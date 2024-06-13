@@ -35,6 +35,9 @@ If familiar with github, clone the repository directly from your terminal:
 git clone https://github.com/yourusername/medical-codelist-management.git
 ```
 
+
+
+
 2. Download Anaconda at: "insert download link" and follow the install instructions provided at: "insert location"
 
 OR
