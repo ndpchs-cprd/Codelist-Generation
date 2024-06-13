@@ -20,7 +20,8 @@ Install required packages:
 pip install -r requirements.txt
 ```
 
-Usage
+##Usage
+
 Here’s how to use the tools provided in the repository:
 
 Searching Codelists:
