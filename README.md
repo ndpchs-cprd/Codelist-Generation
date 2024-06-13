@@ -10,12 +10,12 @@ This project provides a suite of tools for researchers and healthcare profession
 
 ## Installation
 
-Clone the repository:
+1. Clone the repository:
 ```python
 git clone https://github.com/yourusername/medical-codelist-management.git
 ```
 
-Install required packages:
+2. Install required packages:
 ```python
 pip install -r requirements.txt
 ```
@@ -48,8 +48,8 @@ Contributions are welcome! Please read the CONTRIBUTING.md for details on our co
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Acknowledgments
-NHS PCD refset
-HDRUK phenotype library
-AIM RSF codelists
-CALIBER project
-Opencodelists.org
+* NHS PCD refset
+* HDRUK phenotype library
+* AIM RSF codelists
+* CALIBER project
+* Opencodelists.org
