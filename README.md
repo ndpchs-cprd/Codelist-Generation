@@ -13,10 +13,15 @@ This project provides tools for researchers and healthcare professionals to make
 1. Download the codelist repository, scripts and documentation:
 
 Click here: 
+
 ![image](https://github.com/ndpchs-cprd/Codelist-Generation/assets/167761988/e9b58933-80e1-4371-95a6-571cd6d576ec)
 
 Select "Download Zip":
+
+
 ![image](https://github.com/ndpchs-cprd/Codelist-Generation/assets/167761988/61096b0b-2f7c-4bd5-b862-8b0b1bdeb912)
+
+
 
 Navigate to downloaded zip folder and extract. 
 
