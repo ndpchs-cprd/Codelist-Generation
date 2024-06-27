@@ -37,8 +37,9 @@ git clone https://github.com/yourusername/medical-codelist-management.git
 
 
 
+## Installing Anaconda
 
-2. Download Anaconda at: "insert download link" and follow the install instructions provided at: "insert location"
+Download Anaconda at: [Anaconda Download Link](https://www.anaconda.com/download) and follow the install instructions provided at: [Anaconda Instructions](https://docs.anaconda.com/anaconda/install/windows/)
 
 OR
 
@@ -48,6 +49,11 @@ If familiar with github. Install required packages from the terminal:
 pip install -r requirements.txt
 ```
 
+## Running Jupyter Notebook from Anaconda
+
+Follow the instructions provided to begin using Jupter Notebooks directly from Anaconda: [Jupyter Instuctions](https://docs.anaconda.com/ae-notebooks/user-guide/basic-tasks/apps/jupyter/)
+
+more detailed instuctions and examples can be found at the [Jupyter official documentation](https://docs.jupyter.org/en/latest/)
 
 ## Usage
 
